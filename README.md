@@ -2,6 +2,10 @@
 
 Show data about Covid-19
 
+Deployed on:
+
+https://covid-19-xgz.netlify.app/
+
 ## API
 
 https://covid19.mathdro.id/api
